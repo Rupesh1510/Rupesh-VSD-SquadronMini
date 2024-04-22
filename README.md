@@ -51,6 +51,8 @@ sudo make install
 sudo apt-get install iverilog
 
 ```
+![image](https://github.com/Rupesh1510/Rupesh-VSD-SquadronMini/assets/94752269/ca744ff0-a209-479f-b942-78417bf14387)
+
 
 5. Install gtkwave
 ```
@@ -58,3 +60,5 @@ sudo apt update
 sudo apt install gtkwave
 
 ```
+![image](https://github.com/Rupesh1510/Rupesh-VSD-SquadronMini/assets/94752269/dd391c52-ac1b-4ddb-958a-a608d9b071f5)
+
