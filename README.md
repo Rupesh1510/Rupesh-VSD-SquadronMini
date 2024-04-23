@@ -30,6 +30,9 @@ sudo make linux
 
 ```
 
+![image](https://github.com/Rupesh1510/Rupesh-VSD-SquadronMini/assets/94752269/31d05ee6-bfff-497a-9964-81771c233f69)
+
+
 3. Install Yosys
 
 ```
@@ -45,6 +48,9 @@ make
 sudo make install
 
 ```
+
+![image](https://github.com/Rupesh1510/Rupesh-VSD-SquadronMini/assets/94752269/11c4c21a-7aad-4751-b26a-b163e5548a50)
+
 
 4. Install iverilog
 ```
