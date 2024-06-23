@@ -1,7 +1,7 @@
 # Rupesh-VSD-SquadronMini
 The repository tracks all the progress for a duration of 4 weeks of the Internship provided by VSD (VLSI System Design) 
 
-## Task 1: Installation of Toolchain:
+## Task 0: Installation of Toolchain:
 
 1.Install Ubuntu
 
@@ -67,4 +67,11 @@ sudo apt install gtkwave
 
 ```
 ![image](https://github.com/Rupesh1510/Rupesh-VSD-SquadronMini/assets/94752269/dd391c52-ac1b-4ddb-958a-a608d9b071f5)
+
+## Task 1: Basic C progams
+
+![image](https://github.com/Rupesh1510/Rupesh-VSD-SquadronMini/assets/94752269/d219fb5f-4358-4108-a9c8-1297093a696c)
+
+![image](https://github.com/Rupesh1510/Rupesh-VSD-SquadronMini/assets/94752269/218c1dae-2de2-4dfe-a371-a59a7e4bd0fd)
+
 
